@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mokhos
 - 👀 I’m interested in DevOps/Cloud
-- 🌱 I’m currently learning Azure/Azure DevOps/Terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
